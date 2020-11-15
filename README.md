@@ -14,14 +14,14 @@ Este projeto foi fruto da **Next Level Week** da Rocketseat, semana que tem o fo
 
 ## :art: Tecnologias Utilizadas
 
-- NodeJS
-- Nodemon
-- Express
-- SQLite3
-- Nunjucks
-- HTML
-- CSS
-- Javascript
+- [NodeJS](https://nodejs.org/en/)
+- [Nodemon](https://nodemon.io/)
+- [Express](https://expressjs.com/)
+- [SQLite3](https://www.npmjs.com/package/sqlite3)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## :bulb: Como baixar o projeto
 
