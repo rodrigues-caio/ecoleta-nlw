@@ -10,7 +10,7 @@
 
 Aplicação web desenvolvida em homenagem a semana do meio ambiente, com a funcionalidade de cadastramento de pontos de coleta seletiva, e também de encontrar/pesquisar quais pontos existem em uma determinada cidade.
 
-Este projeto foi fruto da **Next Level Week** da Rocketseat, semana que tem o foco educacional em tecnologias em desenvolvimento web/mobile.
+Este projeto foi fruto da **Next Level Week** da Rocketseat, semana que tem o foco educacional em tecnologias de desenvolvimento web/mobile.
 
 ## :art: Tecnologias Utilizadas
 
